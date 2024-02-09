@@ -1,0 +1,15 @@
+C:\Users\d19c5010\Desktop\Práctica Observer\bin\Debug\net6.0\Práctica Observer.exe
+C:\Users\d19c5010\Desktop\Práctica Observer\bin\Debug\net6.0\Práctica Observer.deps.json
+C:\Users\d19c5010\Desktop\Práctica Observer\bin\Debug\net6.0\Práctica Observer.runtimeconfig.json
+C:\Users\d19c5010\Desktop\Práctica Observer\bin\Debug\net6.0\Práctica Observer.dll
+C:\Users\d19c5010\Desktop\Práctica Observer\bin\Debug\net6.0\Práctica Observer.pdb
+C:\Users\d19c5010\Desktop\Práctica Observer\obj\Debug\net6.0\Práctica Observer.csproj.AssemblyReference.cache
+C:\Users\d19c5010\Desktop\Práctica Observer\obj\Debug\net6.0\Práctica Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d19c5010\Desktop\Práctica Observer\obj\Debug\net6.0\Práctica Observer.AssemblyInfoInputs.cache
+C:\Users\d19c5010\Desktop\Práctica Observer\obj\Debug\net6.0\Práctica Observer.AssemblyInfo.cs
+C:\Users\d19c5010\Desktop\Práctica Observer\obj\Debug\net6.0\Práctica Observer.csproj.CoreCompileInputs.cache
+C:\Users\d19c5010\Desktop\Práctica Observer\obj\Debug\net6.0\Práctica Observer.dll
+C:\Users\d19c5010\Desktop\Práctica Observer\obj\Debug\net6.0\refint\Práctica Observer.dll
+C:\Users\d19c5010\Desktop\Práctica Observer\obj\Debug\net6.0\Práctica Observer.pdb
+C:\Users\d19c5010\Desktop\Práctica Observer\obj\Debug\net6.0\Práctica Observer.genruntimeconfig.cache
+C:\Users\d19c5010\Desktop\Práctica Observer\obj\Debug\net6.0\ref\Práctica Observer.dll
